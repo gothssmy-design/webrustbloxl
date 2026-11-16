@@ -1,0 +1,21 @@
+{
+  "name": "RustBlox",
+  "short_name": "RustBlox",
+  "description": "RustBlox is a fast, community-made Roblox launcher written entirely in Rust.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f16",
+  "theme_color": "#0d0f16",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
